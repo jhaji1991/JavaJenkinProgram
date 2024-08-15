@@ -7,6 +7,9 @@ public class Hello {
 		System.out.println("Hello Jenkins");
 		System.out.println("Date    "  + new Date());
 System.out.println("Date    "  + new Date());
+System.out.println("Date    "  + new Date());
+System.out.println("Date    "  + new Date());
+System.out.println("Date    "  + new Date());
 	}
 	
 }
