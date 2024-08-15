@@ -10,6 +10,9 @@ System.out.println("Date    "  + new Date());
 System.out.println("Date    "  + new Date());
 System.out.println("Date    "  + new Date());
 System.out.println("Date    "  + new Date());
+
+Student student = new Student();
+  student.dislayName();
 	}
 	
 }
